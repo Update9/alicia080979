@@ -25,7 +25,7 @@ to create your new webapp. Heroku will assign your webapp a name as well as the 
 
 7. To the bot.py file, change the TOKEN variable to the API token of your telegram bot, and change the yourherokuappname to the name of your heroku app in the line
 
-> updater.bot.setWebhook('https://aiop57.herokuapp.com/'  + 5103049162:AAE49wuhia1kV7X81wjujdVLbrMOGWw6BxM)
+> updater.bot.setWebhook('https://alsoeee.herokuapp.com/'  + TOKEN)
 
 8. Next, in your command line, type the following commands in the following order:
 
